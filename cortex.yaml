@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-banshee
+  x-cortex-tag: monster-banshee
+  x-cortex-custom-metadata:
+    alignment: lawful-neutral
+    type: dragon
+    challenge_rating: 3
+    legendary: false
+    armor_class: 18
+    hit_points: 246
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-banshee
+      alias: github-token-test
